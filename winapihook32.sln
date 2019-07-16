@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLLogic", "DLLLogic\DLLLogic.vcxproj", "{1828D26D-0980-4FC0-B321-3AB058BDD9DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLInject", "DLLInject\DLLInject.vcxproj", "{8F5F1DB3-AE85-4239-BABB-551E00DAEEF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLTester", "test\test.vcxproj", "{AA837FFB-AE23-48F7-949C-08F1890303DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1828D26D-0980-4FC0-B321-3AB058BDD9DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1828D26D-0980-4FC0-B321-3AB058BDD9DB}.Debug|Win32.Build.0 = Debug|Win32
+		{1828D26D-0980-4FC0-B321-3AB058BDD9DB}.Release|Win32.ActiveCfg = Release|Win32
+		{1828D26D-0980-4FC0-B321-3AB058BDD9DB}.Release|Win32.Build.0 = Release|Win32
+		{8F5F1DB3-AE85-4239-BABB-551E00DAEEF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F5F1DB3-AE85-4239-BABB-551E00DAEEF1}.Debug|Win32.Build.0 = Debug|Win32
+		{8F5F1DB3-AE85-4239-BABB-551E00DAEEF1}.Release|Win32.ActiveCfg = Release|Win32
+		{8F5F1DB3-AE85-4239-BABB-551E00DAEEF1}.Release|Win32.Build.0 = Release|Win32
+		{AA837FFB-AE23-48F7-949C-08F1890303DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA837FFB-AE23-48F7-949C-08F1890303DF}.Debug|Win32.Build.0 = Debug|Win32
+		{AA837FFB-AE23-48F7-949C-08F1890303DF}.Release|Win32.ActiveCfg = Release|Win32
+		{AA837FFB-AE23-48F7-949C-08F1890303DF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB63AA1D-13F0-49AF-A724-9E61FC4BDE93}
+	EndGlobalSection
+EndGlobal
